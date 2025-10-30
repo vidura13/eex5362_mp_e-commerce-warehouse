@@ -12,5 +12,5 @@ The project document is provided as a MS Word file.
 
 The datasets used for this analysis are included in the `/data` folder.
 
-* **Logistics Data:** [`/data/logistics_dataset.csv`](./data/logistics_warehouse_dataset.csv)
+* **Logistics Data:** [`/data/logistics_dataset.csv`](./data/logistics_dataset.csv.csv)
 * **Sales Data:** [`/data/retail_sales_dataset.csv`](./data/retail_sales_dataset.csv)
